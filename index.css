@@ -1,4 +1,5 @@
 @import url("/styles/_header.scss");
 @import url("/styles/_main.scss");
 @import url("/styles/_global-classes.scss");
-@import url("/styles//_first-section.scss");/*# sourceMappingURL=index.css.map */
+@import url("/styles//_first-section.scss");
+@import url("/styles/_second-section.scss");/*# sourceMappingURL=index.css.map */
